@@ -158,7 +158,7 @@ namespace Photon.Pun.Demo.PunBasics
 
                 brushTip = transform.GetChild(0);
                 brushTip.GetComponent<Renderer>().enabled = false;
-                brushTip.transform.position = Camera.main.transform.position + Camera.main.transform.forward * 0.1f;
+                brushTip.transform.position = GameObject.Find("Ball").transform.position /*+ Camera.main.transform.forward * 0.1f*/;
 
                 //OLD AR - if (Input.GetTouch(0).phase == TouchPhase.Began)
 

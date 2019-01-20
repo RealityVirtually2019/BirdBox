@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C3C75C1B-75EC-3E13-6834-AE1CBA1BEBD1}</ProjectGuid>
+    <ProjectGuid>{D439555D-B047-A558-3CF3-A7E118731589}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -82,43 +82,43 @@
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\BezierSplineInspector.cs" />
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\LineInspector.cs" />
     <Reference Include="Unity.XR.FaceSubsystem">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.FaceSubsystem.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.FaceSubsystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARCore">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARCore.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.ARCore.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARExtensions">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.ARExtensions.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.ARExtensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARExtensions.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.XR.ARExtensions.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.XR.ARExtensions.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -376,28 +376,28 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Assets/Photon/PhotonUnityNetworking/Code/Editor/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Assets/Photon/PhotonUnityNetworking/Code/Editor/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/david/Desktop/UnityScenesHack/Demo VIU PhotontoVRhack/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/david/Desktop/BirdBoxRepo/BirdBox/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -761,40 +761,48 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{786F30E3-B703-9C87-D139-F288379DF3BB}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{D3D72C88-8B47-AD8E-FD96-69D2AB6F0CD5}</Project>
+      <Project>{BC6697AB-438B-1D1C-B060-5DD3374E11F6}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{0B56EF4A-6198-FB72-78ED-7E9C30E8C63A}</Project>
+      <Name>Assembly-CSharp-Editor-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{BC2EDE44-FC69-56A4-598E-ABC9FC0E6AE3}</Project>
+      <Project>{9D782E31-9763-FE84-AC9C-75FE8D36463B}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{74B2199B-5CE2-7916-6ACB-477057F00BF0}</Project>
+      <Project>{0B521454-5817-B858-408A-F07FCFC13E5C}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonWebSocket.csproj">
-      <Project>{44EBFB1D-E164-B4F8-02C2-3034E0611662}</Project>
+      <Project>{AFE39F6C-5D3E-F663-C30C-79CC5D8AFCAE}</Project>
       <Name>PhotonWebSocket</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{C5986884-376C-F301-A7E6-D5BB0AEB4164}</Project>
+      <Project>{32527072-FC45-A927-1E3C-E2714A568F4B}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{778D71EF-9AC3-F71B-154A-BA1786B5A85E}</Project>
+      <Project>{E7D16EE2-A04E-FE83-B30C-AF5534FFF2BA}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{085F148D-CC12-C62F-19AC-EFFD1D7B5F0D}</Project>
+      <Project>{ABB95FDF-58A3-BE93-E7CC-1E16BC72C3BA}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{6B5A5D0C-E425-497C-EB35-92D40191D7D3}</Project>
+      <Project>{B3613915-2567-F438-06B9-EC377CB0F64C}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{6C68410B-660F-D591-B754-F704B5F1EE2F}</Project>
+      <Project>{93C5CDDF-9611-2F4F-2886-F68CE7BFE471}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
   </ItemGroup>
