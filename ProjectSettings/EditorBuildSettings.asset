@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/NewPunBasics-Launcher.unity
+    guid: a03ddd019b150ee4ebb196a04aca8d59
+  - enabled: 1
+    path: Assets/Scenes/NewPunBasics-Room for 1.unity
+    guid: 59c5f4416c08aae41a64c25423694da8
+  - enabled: 1
+    path: Assets/Scenes/NewPunBasics-Room for 2.unity
+    guid: a1d0e6b39b06ac34c9601e90a4f8c93b
   m_configObjects: {}
