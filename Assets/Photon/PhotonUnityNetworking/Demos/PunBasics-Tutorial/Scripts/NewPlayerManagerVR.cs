@@ -57,6 +57,10 @@ namespace Photon.Pun.Demo.PunBasics
         private GameObject playerBrushPrefab;
         private Transform brushTip;
 
+        AnimationCurve curve = new AnimationCurve();
+
+
+
         #endregion
 
         #region MonoBehaviour CallBacks
@@ -92,6 +96,9 @@ namespace Photon.Pun.Demo.PunBasics
         /// </summary>
         public void Start()
         {
+           
+            curve.AddKey(0.0f, 0.0f);
+            curve.AddKey(1.0f, 1.0f);
             //CameraWork _cameraWork = gameObject.GetComponent<CameraWork>();
 
 
@@ -166,6 +173,7 @@ namespace Photon.Pun.Demo.PunBasics
                 if (ViveInput.GetPressDownEx(HandRole.RightHand, ControllerButton.Trigger))
                 {
                     thisBrush = PhotonNetwork.Instantiate(playerBrushPrefab.name, transform.GetChild(0).transform.position, transform.GetChild(0).transform.rotation);
+                    thisBrush.name = "MyBrush";
                     IsDrawing = true;
                 }
                 else if (IsDrawing)
@@ -178,6 +186,18 @@ namespace Photon.Pun.Demo.PunBasics
                     IsDrawing = false;
                     Destroy(thisBrush);
                 }
+                if (GameObject.Find("Brush(Clone)") != null)
+                {
+
+                    
+                    TrailRenderer tr = GameObject.Find("Brush(Clone)").GetComponent<TrailRenderer>();
+                    tr.gameObject.name = "RescaledBrush";
+                    tr.widthCurve = curve;
+                    tr.widthMultiplier = 0.05f;
+                    tr.gameObject.transform.localScale = 10*Vector3.one;
+                }
+                   
+            
 
                 //if (this.Health <= 0f)
                 //{
@@ -187,6 +207,7 @@ namespace Photon.Pun.Demo.PunBasics
 
 
             }
+         
 
             //if (this.beams != null && this.IsFiring != this.beams.activeInHierarchy)
             //{

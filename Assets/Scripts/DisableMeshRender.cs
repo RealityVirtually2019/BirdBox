@@ -8,7 +8,14 @@ public class DisableMeshRender : MonoBehaviour
     void Start()
     {
         foreach (Renderer r in GetComponentsInChildren<Renderer>())
+        {
             r.enabled = false;
+        
+        }
+        
+
+
+
     }
 
     // Update is called once per frame
